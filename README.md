@@ -10,6 +10,8 @@
 - Advanced end game screen that reflects your skills in the game
 - Guide tab where you can have detailed information about enemy spaceships and game rules
 
+To download the executable version without any dependencies;
+[https://buyuksensei.itch.io/space-warrior](https://buyuksensei.itch.io/space-warrior)
 ***
 
 ### İmproved menu design
